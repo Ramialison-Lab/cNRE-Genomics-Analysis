@@ -1,0 +1,12 @@
+callipepla_squamata_genome.fna
+colinus_virginianus_genome.fna
+columba_livia_genome.fna
+coturnix_japonica_genome.fna
+lyrurus_tetrix_tetrix_genome.fna
+meleagris_gallopavo_genome.fna
+numida_meleagris_genome.fna
+opisthocomus_hoazin_genomic.fna
+struthio_camelus_australis_genome.fna
+taeniopygia_guttata_genome.fna
+tinamus_guttatus_genome.fna
+tympanuchus_cupido_pinnatus_genome.fna

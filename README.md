@@ -6,7 +6,7 @@ Computational analyses of cNRE (complex nuclear receptor cis-regulatory element)
 
 Developer: **Martin Nikolov**, Ramialison Laboratory, Australian Regenerative Medicine Institute & Murdoch Children's Research Institute, Australia
 
-1. R scripts for calculating custom p-values involved in viral hits alignment (associated with Supplementary Figure 6) ("1_Virus_alignment_p_value" directory).
+1. R scripts for calculating custom p-values involved in viral hits alignment (associated with Supplementary Figure 6-7) ("1_Virus_alignment_p_value" directory).
 
 2. Helper R scripts for extracting FASTA sequence from various genomes (associated with Figure 5) ("2_Avian_alignment_extract_FASTA" directory).
 

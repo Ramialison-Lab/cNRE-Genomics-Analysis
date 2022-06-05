@@ -1,12 +1,14 @@
 # cNRE-Genomics-Analysis
  cNRE comparative genomics pipeline
-# Comparative genomics analyses for cNRE 
+# Comparative genomics analyses of cNRE (complex nuclear receptor cis-regulatory element)
 ## Description
-Computational analyses of cNRE (complex nuclear receptor cis-regulatory element), a 32- bp sequence with hexanucleotide binding repeats in different organisms. 
+Computational analyses of cNRE (complex nuclear receptor cis-regulatory element), a 32-bp sequence with hexanucleotide binding repeats in different organisms. 
+
+Code developed by Martin Nikolov at the Ramialison Laboratory (Australian Regenerative Medicine Institute & Murdoch Children's Research Institute).
 
 Code for the manuscript: Luana Nunes Santos, Ângela Maria da Souza Costa, Martin Nikolov, Allysson Coelho Sampaio, Frank E. Stockdale, Gang F Wangø, Hozana Andrade Castillo, Mariana Bortoletto Grizante, Stefanie Dudczig, Michelle Vasconcelos, Nadia Rosenthal, Patricia Regina Jusuf, Paulo de Oliveira, Tatiana Guimarães de Freitas Matos, William Nikovits Jr., Michael Schubert, Mirana Ramialison*, José Xavier-Neto. Deep origins of the complex Nuclear Receptor Element (cNRE), a cis-regulatory module of viral origin required for preferential expression in the atrial chamber. Under review, preprint available at https://www.biorxiv.org/content/10.1101/2021.11.18.469087v1.full. (<sup>*</sup>: corresponding author)
 
-Languages: R.
+Languages: R, bash
 Operating systems: Windows, Linux, Mac OSX. 
 
 ## Getting the Source Code
